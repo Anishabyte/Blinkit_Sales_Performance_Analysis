@@ -2,10 +2,11 @@
 
 <img align="center" alt="coding" width="600" height="400" src="Blinkit Sales Analysis.png">
 
-🚀 Overview
+## 🚀 Overview
+
 This dashboard provides a comprehensive analysis of Blinkit’s sales performance, customer satisfaction, and inventory distribution. It offers key insights and optimization opportunities using interactive visualizations in Power BI.
 
-🧬 Features
+## 🧬 Features
 
 
 * Sales Performance Analysis: Tracks Total Sales, Average Sales, and Number of Items Sold.
@@ -24,7 +25,7 @@ This dashboard provides a comprehensive analysis of Blinkit’s sales performanc
 
 * Interactive Visualizations: Provides data-driven decision-making capabilities using Power BI.
 
-🤖 Tools & Technologies
+## 🤖 Tools & Technologies
 
 - Microsoft Power BI
 
@@ -34,7 +35,7 @@ This dashboard provides a comprehensive analysis of Blinkit’s sales performanc
 
 - Python (for data preprocessing)
 
-💻 How to Use
+## 💻 How to Use
 
 Load the dataset into Power BI.
 
@@ -46,6 +47,6 @@ Use filters and slicers for customized analysis.
 
 Leverage key KPIs to optimize sales, customer satisfaction, and inventory management.
 
-🛩️ Conclusion
+## 🛩️ Conclusion
 
 This dashboard is designed to assist stakeholders in making informed decisions, improving operational efficiency, and optimizing sales and inventory strategies.
